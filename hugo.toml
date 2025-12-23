@@ -1,0 +1,7 @@
+baseURL = "http://20.250.144.175/"
+title = "CPIT-490 Cat Blog"
+theme = "neopost"
+languageCode = "en-us"
+
+[params]
+theme = "light-blue"
